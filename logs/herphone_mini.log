@@ -1,0 +1,258 @@
+[INFO ] 46-2019-12-17 10:12:32,373 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:46) - 加载class路径配置文件
+[INFO ] 22-2019-12-17 10:12:32,442 method:com.crxl.xllxj.module.core.config.ServerConfigLoad.load(ServerConfigLoad.java:22) - 加载 server.property 配置文件：{"ssl_open":"false","ssl_filename":"2390924__edisonluorui.com.jks","gamePath":"http://127.0.0.1:9994","ssl_type":"JKS","ssl_password":"67TmbA83","main_server_address":"","jetty_port":"9992","server_port":"9991"}
+[INFO ] 61-2019-12-17 10:12:32,443 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:61) - log4j 加载完毕，开始启动服务器
+[INFO ] 68-2019-12-17 10:12:32,478 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_47---->save_7
+[INFO ] 68-2019-12-17 10:12:32,478 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_9---->save_9
+[INFO ] 68-2019-12-17 10:12:32,479 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_37---->save_7
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_45---->save_5
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_15---->save_5
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_11---->save_1
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_27---->save_7
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_20---->save_0
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_36---->save_6
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_5---->save_5
+[INFO ] 68-2019-12-17 10:12:32,481 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_8---->save_8
+[INFO ] 68-2019-12-17 10:12:32,482 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_35---->save_5
+[INFO ] 68-2019-12-17 10:12:32,482 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_14---->save_4
+[INFO ] 68-2019-12-17 10:12:32,483 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_40---->save_0
+[INFO ] 68-2019-12-17 10:12:32,483 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_17---->save_7
+[INFO ] 68-2019-12-17 10:12:32,483 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_24---->save_4
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_16---->save_6
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_41---->save_1
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_23---->save_3
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_29---->save_9
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_10---->save_0
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_1---->save_1
+[INFO ] 68-2019-12-17 10:12:32,484 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_7---->save_7
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_18---->save_8
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_4---->save_4
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_31---->save_1
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_21---->save_1
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_32---->save_2
+[INFO ] 68-2019-12-17 10:12:32,485 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_0---->save_0
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_33---->save_3
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_26---->save_6
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_19---->save_9
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_49---->save_9
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_44---->save_4
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_38---->save_8
+[INFO ] 68-2019-12-17 10:12:32,486 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_13---->save_3
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_25---->save_5
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_2---->save_2
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_12---->save_2
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_39---->save_9
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_48---->save_8
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_43---->save_3
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_28---->save_8
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_3---->save_3
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_42---->save_2
+[INFO ] 68-2019-12-17 10:12:32,487 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_6---->save_6
+[INFO ] 68-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_22---->save_2
+[INFO ] 68-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_30---->save_0
+[INFO ] 68-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_34---->save_4
+[INFO ] 68-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_46---->save_6
+[INFO ] 86-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_1映射：  main_11    main_41    main_1    main_31    main_21  
+[INFO ] 86-2019-12-17 10:12:32,488 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_0映射：  main_20    main_40    main_10    main_0    main_30  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_8映射：  main_8    main_18    main_38    main_48    main_28  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_4映射：  main_14    main_24    main_4    main_44    main_34  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_9映射：  main_9    main_29    main_19    main_49    main_39  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_5映射：  main_45    main_15    main_5    main_35    main_25  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_3映射：  main_23    main_33    main_13    main_43    main_3  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_2映射：  main_32    main_2    main_12    main_42    main_22  
+[INFO ] 86-2019-12-17 10:12:32,489 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_7映射：  main_47    main_37    main_27    main_17    main_7  
+[INFO ] 86-2019-12-17 10:12:32,490 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_6映射：  main_36    main_16    main_26    main_6    main_46  
+[INFO ] 63-2019-12-17 10:12:32,490 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:63) - 线程组初始化完毕
+[INFO ] 53-2019-12-17 10:12:32,713 method:com.crxl.xllxj.module.core.net.NettyServer.start(NettyServer.java:53) - netty websocket 绑定端口：9991
+[INFO ] 69-2019-12-17 10:12:32,826 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:69) - netty 服务器启动完毕
+[INFO ] 37-2019-12-17 10:12:32,828 method:com.crxl.xllxj.module.jetty.server.JettyServer.start(JettyServer.java:37) - jetty端口：9992
+[INFO ] 192-2019-12-17 10:12:32,842 method:org.eclipse.jetty.util.log.Log.initialized(Log.java:192) - Logging initialized @643ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 372-2019-12-17 10:12:32,905 method:org.eclipse.jetty.server.Server.doStart(Server.java:372) - jetty-9.4.0.v20161208
+[INFO ] 791-2019-12-17 10:12:32,936 method:org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:791) - Started o.e.j.s.ServletContextHandler@4e41089d{/,null,AVAILABLE}
+[INFO ] 280-2019-12-17 10:12:32,955 method:org.eclipse.jetty.server.AbstractConnector.doStart(AbstractConnector.java:280) - Started ServerConnector@12405818{HTTP/1.1,[http/1.1]}{0.0.0.0:9992}
+[INFO ] 444-2019-12-17 10:12:32,956 method:org.eclipse.jetty.server.Server.doStart(Server.java:444) - Started @759ms
+[INFO ] 71-2019-12-17 10:12:32,956 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:71) - jetty 启动完毕
+[INFO ] 75-2019-12-17 10:12:32,957 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:75) - 白名单管理器启动
+[INFO ] 76-2019-12-17 10:12:32,957 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:76) - 服务器启动完毕
+[INFO ] 46-2019-12-17 16:21:18,835 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:46) - 加载class路径配置文件
+[INFO ] 22-2019-12-17 16:21:18,878 method:com.crxl.xllxj.module.core.config.ServerConfigLoad.load(ServerConfigLoad.java:22) - 加载 server.property 配置文件：{"ssl_open":"false","ssl_filename":"2390924__edisonluorui.com.jks","gamePath":"http://127.0.0.1:9994","ssl_type":"JKS","ssl_password":"67TmbA83","main_server_address":"","jetty_port":"9992","server_port":"9991"}
+[INFO ] 61-2019-12-17 16:21:18,879 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:61) - log4j 加载完毕，开始启动服务器
+[INFO ] 68-2019-12-17 16:21:18,903 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_47---->save_7
+[INFO ] 68-2019-12-17 16:21:18,903 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_9---->save_9
+[INFO ] 68-2019-12-17 16:21:18,903 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_37---->save_7
+[INFO ] 68-2019-12-17 16:21:18,905 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_45---->save_5
+[INFO ] 68-2019-12-17 16:21:18,905 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_15---->save_5
+[INFO ] 68-2019-12-17 16:21:18,905 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_11---->save_1
+[INFO ] 68-2019-12-17 16:21:18,905 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_27---->save_7
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_20---->save_0
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_36---->save_6
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_5---->save_5
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_8---->save_8
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_35---->save_5
+[INFO ] 68-2019-12-17 16:21:18,906 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_14---->save_4
+[INFO ] 68-2019-12-17 16:21:18,907 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_40---->save_0
+[INFO ] 68-2019-12-17 16:21:18,907 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_17---->save_7
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_24---->save_4
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_16---->save_6
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_41---->save_1
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_23---->save_3
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_29---->save_9
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_10---->save_0
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_1---->save_1
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_7---->save_7
+[INFO ] 68-2019-12-17 16:21:18,908 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_18---->save_8
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_4---->save_4
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_31---->save_1
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_21---->save_1
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_32---->save_2
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_0---->save_0
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_33---->save_3
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_26---->save_6
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_19---->save_9
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_49---->save_9
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_44---->save_4
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_38---->save_8
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_13---->save_3
+[INFO ] 68-2019-12-17 16:21:18,909 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_25---->save_5
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_2---->save_2
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_12---->save_2
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_39---->save_9
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_48---->save_8
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_43---->save_3
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_28---->save_8
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_3---->save_3
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_42---->save_2
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_6---->save_6
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_22---->save_2
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_30---->save_0
+[INFO ] 68-2019-12-17 16:21:18,910 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_34---->save_4
+[INFO ] 68-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_46---->save_6
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_1映射：  main_11    main_41    main_1    main_31    main_21  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_0映射：  main_20    main_40    main_10    main_0    main_30  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_8映射：  main_8    main_18    main_38    main_48    main_28  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_4映射：  main_14    main_24    main_4    main_44    main_34  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_9映射：  main_9    main_29    main_19    main_49    main_39  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_5映射：  main_45    main_15    main_5    main_35    main_25  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_3映射：  main_23    main_33    main_13    main_43    main_3  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_2映射：  main_32    main_2    main_12    main_42    main_22  
+[INFO ] 86-2019-12-17 16:21:18,911 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_7映射：  main_47    main_37    main_27    main_17    main_7  
+[INFO ] 86-2019-12-17 16:21:18,912 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_6映射：  main_36    main_16    main_26    main_6    main_46  
+[INFO ] 63-2019-12-17 16:21:18,912 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:63) - 线程组初始化完毕
+[INFO ] 53-2019-12-17 16:21:19,112 method:com.crxl.xllxj.module.core.net.NettyServer.start(NettyServer.java:53) - netty websocket 绑定端口：9991
+[ERROR] 59-2019-12-17 16:21:19,213 method:com.crxl.xllxj.module.core.net.NettyServer.start(NettyServer.java:59) - 
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:498)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1271)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:413)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:399)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:349)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:374)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+[ERROR] 79-2019-12-17 16:21:19,214 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:79) - 发生异常导致启动失败：
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at com.crxl.xllxj.module.core.net.NettyServer.start(NettyServer.java:60)
+	at com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:68)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:498)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1271)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:413)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:399)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:349)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:374)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO ] 46-2019-12-17 16:22:33,062 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:46) - 加载class路径配置文件
+[INFO ] 22-2019-12-17 16:22:33,103 method:com.crxl.xllxj.module.core.config.ServerConfigLoad.load(ServerConfigLoad.java:22) - 加载 server.property 配置文件：{"ssl_open":"false","ssl_filename":"2390924__edisonluorui.com.jks","gamePath":"http://127.0.0.1:9994","ssl_type":"JKS","ssl_password":"67TmbA83","main_server_address":"","jetty_port":"9992","server_port":"9991"}
+[INFO ] 61-2019-12-17 16:22:33,103 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:61) - log4j 加载完毕，开始启动服务器
+[INFO ] 68-2019-12-17 16:22:33,127 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_47---->save_7
+[INFO ] 68-2019-12-17 16:22:33,128 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_9---->save_9
+[INFO ] 68-2019-12-17 16:22:33,128 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_37---->save_7
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_45---->save_5
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_15---->save_5
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_11---->save_1
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_27---->save_7
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_20---->save_0
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_36---->save_6
+[INFO ] 68-2019-12-17 16:22:33,130 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_5---->save_5
+[INFO ] 68-2019-12-17 16:22:33,131 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_8---->save_8
+[INFO ] 68-2019-12-17 16:22:33,131 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_35---->save_5
+[INFO ] 68-2019-12-17 16:22:33,131 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_14---->save_4
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_40---->save_0
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_17---->save_7
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_24---->save_4
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_16---->save_6
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_41---->save_1
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_23---->save_3
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_29---->save_9
+[INFO ] 68-2019-12-17 16:22:33,132 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_10---->save_0
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_1---->save_1
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_7---->save_7
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_18---->save_8
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_4---->save_4
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_31---->save_1
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_21---->save_1
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_32---->save_2
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_0---->save_0
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_33---->save_3
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_26---->save_6
+[INFO ] 68-2019-12-17 16:22:33,133 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_19---->save_9
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_49---->save_9
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_44---->save_4
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_38---->save_8
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_13---->save_3
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_25---->save_5
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_2---->save_2
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_12---->save_2
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_39---->save_9
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_48---->save_8
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_43---->save_3
+[INFO ] 68-2019-12-17 16:22:33,134 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_28---->save_8
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_3---->save_3
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_42---->save_2
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_6---->save_6
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_22---->save_2
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_30---->save_0
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_34---->save_4
+[INFO ] 68-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:68) - main_46---->save_6
+[INFO ] 86-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_1映射：  main_11    main_41    main_1    main_31    main_21  
+[INFO ] 86-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_0映射：  main_20    main_40    main_10    main_0    main_30  
+[INFO ] 86-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_8映射：  main_8    main_18    main_38    main_48    main_28  
+[INFO ] 86-2019-12-17 16:22:33,135 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_4映射：  main_14    main_24    main_4    main_44    main_34  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_9映射：  main_9    main_29    main_19    main_49    main_39  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_5映射：  main_45    main_15    main_5    main_35    main_25  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_3映射：  main_23    main_33    main_13    main_43    main_3  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_2映射：  main_32    main_2    main_12    main_42    main_22  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_7映射：  main_47    main_37    main_27    main_17    main_7  
+[INFO ] 86-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.thread.TaskManager.testMappingSaveThreadInfo(TaskManager.java:86) - save_6映射：  main_36    main_16    main_26    main_6    main_46  
+[INFO ] 63-2019-12-17 16:22:33,136 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:63) - 线程组初始化完毕
+[INFO ] 53-2019-12-17 16:22:33,337 method:com.crxl.xllxj.module.core.net.NettyServer.start(NettyServer.java:53) - netty websocket 绑定端口：9991
+[INFO ] 69-2019-12-17 16:22:33,436 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:69) - netty 服务器启动完毕
+[INFO ] 37-2019-12-17 16:22:33,438 method:com.crxl.xllxj.module.jetty.server.JettyServer.start(JettyServer.java:37) - jetty端口：9992
+[INFO ] 192-2019-12-17 16:22:33,450 method:org.eclipse.jetty.util.log.Log.initialized(Log.java:192) - Logging initialized @548ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 372-2019-12-17 16:22:33,490 method:org.eclipse.jetty.server.Server.doStart(Server.java:372) - jetty-9.4.0.v20161208
+[INFO ] 791-2019-12-17 16:22:33,514 method:org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:791) - Started o.e.j.s.ServletContextHandler@4e41089d{/,null,AVAILABLE}
+[INFO ] 280-2019-12-17 16:22:33,523 method:org.eclipse.jetty.server.AbstractConnector.doStart(AbstractConnector.java:280) - Started ServerConnector@12405818{HTTP/1.1,[http/1.1]}{0.0.0.0:9992}
+[INFO ] 444-2019-12-17 16:22:33,523 method:org.eclipse.jetty.server.Server.doStart(Server.java:444) - Started @623ms
+[INFO ] 71-2019-12-17 16:22:33,523 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:71) - jetty 启动完毕
+[INFO ] 75-2019-12-17 16:22:33,524 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:75) - 白名单管理器启动
+[INFO ] 76-2019-12-17 16:22:33,524 method:com.crxl.xllxj.module.core.start.StartXlcrHerphoneMini.main(StartXlcrHerphoneMini.java:76) - 服务器启动完毕
